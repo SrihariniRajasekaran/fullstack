@@ -2,4 +2,4 @@
  
 
 
-This repository is to  learn  fullStack
+This repository is to  learn  fullStack develpment
